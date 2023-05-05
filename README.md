@@ -4,7 +4,7 @@
 Refactored the code to make to follow accessibility standards, to increase search engine optimization 
 ### Link
 
-[This is an external link to genome.gov](https://www.genome.gov/)
+[Link to webpage](https://sirmodv.github.io/modVision-uofm-mod1/)
 
 ### Screenshot
 
