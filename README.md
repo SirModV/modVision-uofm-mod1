@@ -6,4 +6,4 @@ Refactored the code to make to follow accessibility standards, to increase searc
 
 ### Screenshot
 
-<img src="assets/images/Screenshot%202023-05-04%20at%209.17.37%20PM.png")
+![Alt text](assets/images/Screenshot%202023-05-04%20at%209.17.37%20PM.png)
