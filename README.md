@@ -46,6 +46,6 @@ General Improvements:
 [Link to webpage](https://sirmodv.github.io/modVision-uofm-mod1/)
 
 ### Screenshot
+<img width="1598" alt="ScreenShot" src="https://github.com/SirModV/modVision-uofm-mod1/assets/103627016/ff7c5a07-4c3a-4e6e-bea9-de15081c7dec">
 
-<img width="1680" alt="Screenshot 2023-05-04 at 9 17 10 PM" src="https://user-images.githubusercontent.com/103627016/236366055-38671106-313a-4083-89ad-e9b9009d67a8.png">
 
